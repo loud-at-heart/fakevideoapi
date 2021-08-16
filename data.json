@@ -1,0 +1,46 @@
+{
+   "Boards":"CBSE",
+   "class":"11",
+   "subject":"maths",
+   "chapter_no":"1",
+   "chap_syllabus":[
+      "introduction",
+      "sets and relations"
+   ],
+   "chapter_pdf_file":"https://bholu-app.s3.ap-south-1.amazonaws.com/app_resource/class_11/maths/chapter_1/chap_1.pdf",
+   "chapter_slides_file":"https://bholu-app.s3.ap-south-1.amazonaws.com/app_resource/class_11/maths/chapter_1/presentation_angles_1609425075_340552.pdf",
+   "ncert_chapter_solution_pdf":"https://bholu-app.s3.ap-south-1.amazonaws.com/app_resource/class_11/maths/chapter_1/presentation_angles_1609425075_340552.pdf",
+   "share":"",
+   "test_json":"https://bholu-app.s3.ap-south-1.amazonaws.com/app_resource/class_11/maths/chapter_1/quiz_2_questions.json",
+   "test_completed_by_user":"/user/test_attempted/test_completed_data.json",
+   "data":[
+      {
+         "Lecture_no_1":"1",
+         "Lecture_no_1_title":"Introduction",
+         "videos_1":[
+            {
+               "link_1":"https://youtu.be/80WDCUHJSKQ",
+               "video_title":"Introduction",
+               "Video_thumbnail_1":"s3://bucket/rational_number_1.png",
+               "user_already_viewed_time":"2:35",
+               "save_into collection":"save",
+               "practise_questions_json":"https://bholu-app.s3.ap-south-1.amazonaws.com/app_resource/class_11/maths/chapter_1/lec_1_practice_questions.json",
+               "practise_questions_completed_by_user":"/user/practice_attempted/practice_attempted_data.json"
+            }
+         ],
+         "Lecture_no_2":"2",
+         "Lecture_no_2_title":"sets and relations",
+         "videos_2":[
+            {
+               "video_title":"sets and relations",
+               "link_2":"https://youtu.be/80WDCUHJSKQ",
+               "Video_thumbnail_2":"s3://bucket/rational_number_!.png",
+               "user_already_viewed_time":"00:00",
+               "save_into collection":"not_saved",
+               "practise_questions_json":"https://bholu-app.s3.ap-south-1.amazonaws.com/app_resource/class_11/maths/chapter_1/lec_2_practice_questions.json",
+               "practise_questions_completed_by_user":"/user/practice_attempted/practice_attempted_data.json"
+            }
+         ]
+      }
+   ]
+}
